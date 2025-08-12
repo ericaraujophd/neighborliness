@@ -3,7 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 const mdPath = path.join(__dirname, 'materials.md');
-const htmlRowsPath = path.join(__dirname, 'materials-html-rows.txt');
+
+const htmlPath = path.join(__dirname, 'materials-html.html');
 
 const md = fs.readFileSync(mdPath, 'utf8');
 const lines = md.split('\n');
@@ -24,5 +25,16 @@ function convertLink(cell) {
   }
   return cell;
 }
-fs.writeFileSync(htmlRowsPath, rows.join('\n'));
-console.log('HTML table rows written to', htmlRowsPath);
+
+let html = fs.readFileSync(htmlPath, 'utf8');
+const tbodyStart = html.indexOf('<tbody>');
+const tbodyEnd = html.indexOf('</tbody>');
+if (tbodyStart !== -1 && tbodyEnd !== -1) {
+  const before = html.slice(0, tbodyStart + 8); // include <tbody>
+  const after = html.slice(tbodyEnd); // include </tbody>
+  html = before + '\n' + rows.join('\n') + '\n' + after;
+  fs.writeFileSync(htmlPath, html);
+  console.log('materials-html.html updated with new table rows.');
+} else {
+  console.error('Could not find <tbody> in materials-html.html');
+}

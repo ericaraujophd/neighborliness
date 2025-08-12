@@ -18,7 +18,6 @@ project:
     - title: "Materials"
       children:
       - file: "materials/materials.md"
-      - file: "materials/materials-html.html"
 site:
   template: book-theme
   # options:
