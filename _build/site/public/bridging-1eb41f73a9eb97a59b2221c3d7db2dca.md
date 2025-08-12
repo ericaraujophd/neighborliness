@@ -1,0 +1,29 @@
+---
+authors: [Kevin Corcoran, Herm De Vries, Katie Day Good, Dave Koetje, Tracy Kuperus]
+---
+
+# Bridging the Divide: Neighborliness and Belonging (Third draft)
+
+**Our focus.** In a world more interconnected than ever, we often feel disconnected and estranged. Social media that was meant to bring us together pulls us apart. Once accepted facts are now disputed. Expertise is suspect. Institutions are fraying. In such a polarized world, how do we bridge divisions? Our project focuses on applying wisdom to polarization in a way that reflects Jesus’ response to the lawyer’s question, “*Who is my neighbor?*” (Luke 10:29b)
+
+That question arose when Jesus taught to love one’s neighbor as oneself. Jesus responded with the parable of the Good Samaritan, illustrating that a neighbor is anyone in need, even a perceived enemy or member of a different “tribe.” In our fragmented world, we find direction for bridge-building—not with the aim of changing minds, but of loving all people as image-bearers of God.
+
+**Disciplines and Partners.** Fostering neighborliness requires virtues such as humility, curiosity, and empathy. Disciplinary perspectives can help identify the causes and consequences of polarization and suggest possible paths forward for ameliorating its harms. While biologists might point out the necessary polarization within living systems, philosophers, sociologists, and historians help us understand diverse human responses to the challenges of building community and sharing governance amid conflict. Artists, filmmakers, musicians, and writers create media that illuminate the human condition and provoke our social imaginations.
+
+Learning to love and serve our neighbors also requires learning from other cultures. Calvin’s global reach enables us to approach neighborliness in an international way. The reading-group inception of this project invites further collaboration with scholars and churches in the Netherlands, a country with a tradition of (Kuyperian) pluralism, as well as in Brazil and Ghana through networks cultivated by Calvin scholars.
+
+**Target Audiences and Outcomes.** In year one, we aim to coordinate with international partners to convene and gather data from multiple community-oriented discussion groups both local (Grand Rapids) and abroad (the Netherlands and partners in the Global South) organized around common readings, film viewings and other cultural works of art focused on bridging divides. Locally, we will host interdisciplinary colloquia on campus that seek wide public participation from the Grand Rapids community. In year two, we will invite paper and presentation submissions and host, on Calvin’s campus, an interdisciplinary workshop focused on bridge-building and polarization. In year three, the fruit of the workshop will be gathered and published in a special "bridging divisions" issue of an open-access, interdisciplinary journal
+(e.g., Christian Scholar’s Review, or an equivalent). We will also publish and promote these results more
+widely in various public-facing venues, including podcasts and YouTube videos, etc. (Add mention of
+applying for external funding in year 3, a condition of Legacy Grants).
+Student involvement. We will hire Calvin students as research assistants in all three years of this project.
+In year one, they will help convene and gather data from the community discussion groups and integrate
+related discussions into Calvin courses. In year two, they will help organize and host the interdisciplinary
+workshop. In year three, they will help produce the open-access scholarship and podcast interviews,
+YouTube videos, or other public-facing media about the research. Through this, students will test ideas,
+build skills, and practice strategies for seeking unity out of plurality.
+Christian perspective. Tying all the above together are the unique insights of Reformed Christianity. Its
+emphasis on both structural and confessional pluralism can bridge the divides that are at times tearing us
+apart. Christians committed to change that addresses both personal relationships and structures can
+contribute to flourishing communities where people hold firmly to their core beliefs and pursue their
+mutual interests.

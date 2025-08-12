@@ -13,7 +13,10 @@ const tableLines = lines.slice(tableStart);
 
 const rows = [];
 for (let i = 2; i < tableLines.length; i++) { // skip header and separator
-  const cols = tableLines[i].split('|').map(c => c.trim()).filter(Boolean);
+  let line = tableLines[i].trim();
+  if (!line || !line.startsWith('|')) continue; // skip blank or non-table lines
+  // Remove leading/trailing pipes and split
+  let cols = line.replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
   if (cols.length === 5) {
     rows.push(`<tr><td>${cols[0]}</td><td>${cols[1]}</td><td>${convertLink(cols[2])}</td><td>${cols[3]}</td><td>${cols[4]}</td></tr>`);
   }

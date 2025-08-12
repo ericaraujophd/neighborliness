@@ -18,8 +18,12 @@ project:
     - title: "Materials"
       children:
       - file: "materials/materials.md"
+    - title: Products
+      children:
+      - file: "products/bridging.md"
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+    logo_text: "Neighborliness and Belonging"

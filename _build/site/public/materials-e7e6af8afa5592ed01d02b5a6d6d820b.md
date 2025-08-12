@@ -11,10 +11,10 @@
 | How America Fractured Into Four Parts | Article | [Read on The Atlantic](https://www.theatlantic.com/magazine/archive/2021/07/george-packer-four-americas/619012/?gift=e0X04z2AxD6btJosNRQeP5JjOEQ_fbqJn1CcbQkz0m0&utm_source=copy-link&utm_medium=social&utm_campaign=share) | David Koetje | By George Packer |
 | Love and Death | Article | [Read on Substack](https://open.substack.com/pub/kristindumez/p/love-and-death?r=1lpruu&utm_campaign=post&utm_medium=email) | Kristin Du Mez |  |
 | NYT on Mass Job Loss | Article | [Read on NYT](https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html) | Katie Good |  |
+| From Scarcity to Abundance | Article | [Read on Substack](https://illuminatebykcampbell.substack.com/p/from-scarcity-to-abundance?r=1lpruu&utm_medium=ios&triedRedirect=true) | David Koetje | Written by K. Campbell |
 | Tech-Fuelled Inequality Could Catalyze Populism 2.0 | Article | [Read on CIGI Online](https://www.cigionline.org/articles/tech-fuelled-inequality-could-catalyze-populism-20/) | Katie Good |  |
 | What if Our Democracy Can’t Survive Without Christianity? | Article | [Read on NYT](https://www.nytimes.com/2024/12/18/opinion/christianity-democracy-religion.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=p&pvid=751C36AD-2F90-4131-B92A-7D773A687C5E) | Katie Good |  |
 | The Nation Encourages Political Violence by Allowing It to Seem Normal | Article | [Read on NYT](https://www.nytimes.com/2025/06/20/opinion/political-violence-hortman-minnesota.html) | Katie Good | Desensitization to political violence. |
-| From Scarcity to Abundance | Article | [Read on Substack](https://illuminatebykcampbell.substack.com/p/from-scarcity-to-abundance?r=1lpruu&utm_medium=ios&triedRedirect=true) | David Koetje | Written by K. Campbell |
 | One America Movement | Link | [Visit Site](https://www.oneamericamovement.org/) | Katie Good |  |
 | Ryan Burge | Link | [Visit X Profile](https://x.com/ryanburge) | Katie Good |  |
 | Becoming Neighbors: The Common Good Made Local | Book | [Read on Eerdmans](https://www.eerdmans.com/9780802884121/becoming-neighbors/) | Katie Good | Amar D. Peterman, Eerdmans Publishing, 2026 |

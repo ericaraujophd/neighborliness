@@ -14,10 +14,10 @@
 | Tech-Fuelled Inequality Could Catalyze Populism 2.0 | Article | [Read on CIGI Online](https://www.cigionline.org/articles/tech-fuelled-inequality-could-catalyze-populism-20/) | Katie Good |  |
 | What if Our Democracy Can’t Survive Without Christianity? | Article | [Read on NYT](https://www.nytimes.com/2024/12/18/opinion/christianity-democracy-religion.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=p&pvid=751C36AD-2F90-4131-B92A-7D773A687C5E) | Katie Good |  |
 | The Nation Encourages Political Violence by Allowing It to Seem Normal | Article | [Read on NYT](https://www.nytimes.com/2025/06/20/opinion/political-violence-hortman-minnesota.html) | Katie Good | Desensitization to political violence. |
-| From Scarcity to Abundance | Article | [Read on Substack](https://illuminatebykcampbell.substack.com/p/from-scarcity-to-abundance?r=1lpruu&utm_medium=ios&triedRedirect=true) | David Koetje | Written by K. Campbell |
 | One America Movement | Link | [Visit Site](https://www.oneamericamovement.org/) | Katie Good |  |
 | Ryan Burge | Link | [Visit X Profile](https://x.com/ryanburge) | Katie Good |  |
 | Becoming Neighbors: The Common Good Made Local | Book | [Read on Eerdmans](https://www.eerdmans.com/9780802884121/becoming-neighbors/) | Katie Good | Amar D. Peterman, Eerdmans Publishing, 2026 |
 | The Righteous Mind: Why Good People Are Divided by Politics and Religion | Book | [Read on Amazon](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777) | Eric Araujo | Jonathan Haidt, Pantheon Books, 2012 |
 | The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure | Book | [Read on Amazon](https://a.co/d/aV7NLOh) | Eric Araujo | Jonathan Haidt & Greg Lukianoff, Penguin Press, 2018 |
 | The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness | Book | [Read on Amazon](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036) | Eric Araujo | Jonathan Haidt, Penguin Press, 2024 |
+| From Scarcity to Abundance | Article | [Read on Substack](https://illuminatebykcampbell.substack.com/p/from-scarcity-to-abundance?r=1lpruu&utm_medium=ios&triedRedirect=true) | K. Campbell |  |

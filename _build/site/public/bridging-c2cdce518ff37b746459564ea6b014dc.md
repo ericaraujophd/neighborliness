@@ -1,0 +1,6 @@
+---
+authors: [Kevin Corcoran, Herm De Vries, Katie Day Good, Dave Koetje, Tracy Kuperus]
+---
+
+# Bridging the Divide: Neighborliness and Belonging (Third draft)
+
