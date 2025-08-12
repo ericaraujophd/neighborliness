@@ -1,0 +1,26 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: aa15a1ef-ba62-4e25-85bd-cbe89c898d8d
+  title: Neighborliness and Belonging
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: "index.md"
+    - title: "Meeting Notes (an attempt)"
+      children:
+      - file: "meetings/20250602.md"
+      - file: "meetings/20250630.md"
+      - file: "meetings/20250807.md"
+    - title: "Materials"
+      children:
+      - file: "materials/materials.md"
+      - file: "materials/materials-html.md"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
