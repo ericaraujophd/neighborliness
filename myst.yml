@@ -15,6 +15,7 @@ project:
       - file: "meetings/20250602.md"
       - file: "meetings/20250630.md"
       - file: "meetings/20250807.md"
+      - file: "meetings/20250814.md"
     - title: "Materials"
       children:
       - file: "materials/materials.md"
