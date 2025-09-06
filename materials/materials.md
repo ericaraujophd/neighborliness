@@ -21,3 +21,6 @@
 | The Righteous Mind: Why Good People Are Divided by Politics and Religion | Book | [Read on Amazon](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777) | Eric Araujo | Jonathan Haidt, Pantheon Books, 2012 |
 | The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure | Book | [Read on Amazon](https://a.co/d/aV7NLOh) | Eric Araujo | Jonathan Haidt & Greg Lukianoff, Penguin Press, 2018 |
 | The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness | Book | [Read on Amazon](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036) | Eric Araujo | Jonathan Haidt, Penguin Press, 2024 |
+| Opinion — America’s New Segregation | Article | [Read on NYT](https://www.nytimes.com/2025/08/14/opinion/trump-democrats-resistance-reform.html?smid=nytcore-ios-share&referringSource=articleShare) | David Koetje | By David Brooks |
+| Weavers Speakers Bureau | Resources for the future | [Weavers](https://weavers.org/) | Katie Good |  |
+| How the Ivy League Broke America | Article | [Read on The Atlantic](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/) | Sam Smartt | By David Brooks |
