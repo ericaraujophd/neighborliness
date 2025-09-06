@@ -24,3 +24,4 @@
 | Opinion — America’s New Segregation | Article | [Read on NYT](https://www.nytimes.com/2025/08/14/opinion/trump-democrats-resistance-reform.html?smid=nytcore-ios-share&referringSource=articleShare) | David Koetje | By David Brooks |
 | Weavers Speakers Bureau | Resources for the future | [Weavers](https://weavers.org/) | Katie Good |  |
 | How the Ivy League Broke America | Article | [Read on The Atlantic](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/) | Sam Smartt | By David Brooks |
+| Dysmocracy | Video | [Dismocracy](https://www.dysmocracy.com/) | Sam Smartt |  Jordan Melograna and Christa Hillstrom |
