@@ -15,6 +15,7 @@
 | What if Our Democracy Can’t Survive Without Christianity? | Article | [Read on NYT](https://www.nytimes.com/2024/12/18/opinion/christianity-democracy-religion.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=p&pvid=751C36AD-2F90-4131-B92A-7D773A687C5E) | Katie Good |  |
 | The Nation Encourages Political Violence by Allowing It to Seem Normal | Article | [Read on NYT](https://www.nytimes.com/2025/06/20/opinion/political-violence-hortman-minnesota.html) | Katie Good | Desensitization to political violence. |
 | From Scarcity to Abundance | Article | [Read on Substack](https://illuminatebykcampbell.substack.com/p/from-scarcity-to-abundance?r=1lpruu&utm_medium=ios&triedRedirect=true) | David Koetje | Written by K. Campbell |
+| America Needs a Mass Movement—Now | Article | [Read on Atlantic](https://www.theatlantic.com/magazine/archive/2025/11/autocracy-resistance-social-movement/684336/?gift=e0X04z2AxD6btJosNRQePwFwWg_uckn-F23GoS8bAp4) | David Koetje | By David Brooks |
 | One America Movement | Link | [Visit Site](https://www.oneamericamovement.org/) | Katie Good |  |
 | Ryan Burge | Link | [Visit X Profile](https://x.com/ryanburge) | Katie Good |  |
 | Becoming Neighbors: The Common Good Made Local | Book | [Read on Eerdmans](https://www.eerdmans.com/9780802884121/becoming-neighbors/) | Katie Good | Amar D. Peterman, Eerdmans Publishing, 2026 |
@@ -25,4 +26,3 @@
 | Weavers Speakers Bureau | Resources for the future | [Weavers](https://weavers.org/) | Katie Good |  |
 | How the Ivy League Broke America | Article | [Read on The Atlantic](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/) | Sam Smartt | By David Brooks |
 | Dysmocracy | Video | [Dismocracy](https://www.dysmocracy.com/) | Sam Smartt |  Jordan Melograna and Christa Hillstrom |
-| America Needs a Mass Movement—Now | Article | [Read on Atlantic](https://www.theatlantic.com/magazine/archive/2025/11/autocracy-resistance-social-movement/684336/?gift=e0X04z2AxD6btJosNRQePwFwWg_uckn-F23GoS8bAp4) | David Koetje | By David Brooks |
