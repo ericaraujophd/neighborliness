@@ -25,3 +25,4 @@
 | Weavers Speakers Bureau | Resources for the future | [Weavers](https://weavers.org/) | Katie Good |  |
 | How the Ivy League Broke America | Article | [Read on The Atlantic](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/) | Sam Smartt | By David Brooks |
 | Dysmocracy | Video | [Dismocracy](https://www.dysmocracy.com/) | Sam Smartt |  Jordan Melograna and Christa Hillstrom |
+| America Needs a Mass Movement—Now | Article | [Read on Atlantic](https://www.theatlantic.com/magazine/archive/2025/11/autocracy-resistance-social-movement/684336/?gift=e0X04z2AxD6btJosNRQePwFwWg_uckn-F23GoS8bAp4) | David Koetje | By David Brooks |
